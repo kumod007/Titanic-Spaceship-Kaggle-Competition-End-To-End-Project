@@ -1,5 +1,6 @@
 # Titanic-Spaceship-Kaggle-Competition-End-To-End-Project
 In this repository you will get a complete guide to Titanic Spaceship Kaggle Competition with best accuracy near to 82%.
+
 The main aim of this project is to predict whether the passengers will be transported to alternate dimensions or not.
 
 Content you will find in this project:
